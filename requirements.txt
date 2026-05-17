@@ -1,0 +1,19 @@
+# ==============================================================================
+# PIPELINE DEPENDENCIES: PART 3 - NLP AND SEQUENCE MODELING
+# ==============================================================================
+
+# Core Data Manipulation and Auditing Tools
+pandas>=2.0.0                 # High-performance structured data frames and CSV loaders
+
+# Mathematical Computing & Vector Feature Extraction
+scikit-learn>=1.2.0           # Machine learning baselines, TF-IDF feature space arrays, and metrics
+
+# Natural Language Processing & Lexical Normalization
+nltk>=3.8.0                   # Lexical stripping engines, regularized token matchers, and corpus libraries
+
+# Deep Learning Sequence Architecture Models
+tensorflow>=2.12.0            # Deep Learning framework powering Keras, Embeddings, and Bidirectional LSTMs
+
+# Visual Analytics & Diagnostic Chart Generation
+matplotlib>=3.7.0             # Fundamental plotting library backing up Save-Then-Show output workflows
+seaborn>=0.12.0               # High-level statistical visualization maps (Count plots and heatmaps)
