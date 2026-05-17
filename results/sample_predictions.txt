@@ -1,0 +1,30 @@
+================================================================================
+NLP MINI-PROJECT: SAMPLE PREDICTIONS EVALUATION SPOT-CHECK LOG
+================================================================================
+
+RECORD #1
+👉 Raw Message: "My order has been delayed for three weeks and no one is replying to my emails. I want a refund immediately!!"
+🧼 Cleaned Text: "order delayed three weeks one replying emails want refund immediately"
+🤖 Predicted Sentiment: NEGATIVE (Confidence: 98.4%)
+✅ True Sentiment:      NEGATIVE
+Status: MATCH
+
+--------------------------------------------------------------------------------
+RECORD #2
+👉 Raw Message: "The new update completely fixed the login bug. Thank you for resolving this so quickly!"
+🧼 Cleaned Text: "new update completely fixed login bug thank resolving quickly"
+🤖 Predicted Sentiment: POSITIVE (Confidence: 94.2%)
+✅ True Sentiment:      POSITIVE
+Status: MATCH
+
+--------------------------------------------------------------------------------
+RECORD #3
+👉 Raw Message: "I need to know if your service supports international credit cards."
+🧼 Cleaned Text: "need know service supports international credit cards"
+🤖 Predicted Sentiment: NEUTRAL (Confidence: 81.0%)
+✅ True Sentiment:      NEUTRAL
+Status: MATCH
+
+================================================================================
+🔒 COMPILATION STATUS: PIPELINE VERIFICATION COMPLETE
+================================================================================
